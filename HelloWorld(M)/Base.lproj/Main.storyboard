@@ -36,7 +36,6 @@
                             <constraint firstItem="cN5-gH-Th7" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="16" id="18Z-Md-cpR"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="cN5-gH-Th7" secondAttribute="trailing" constant="16" id="FNV-AV-ncx"/>
                             <constraint firstItem="cN5-gH-Th7" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="Fis-D6-oWF"/>
-                            <constraint firstItem="cN5-gH-Th7" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="XxH-wh-dSn"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="cN5-gH-Th7" secondAttribute="bottom" constant="16" id="mbe-GL-ieo"/>
                         </constraints>
                     </view>
